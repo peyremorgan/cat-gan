@@ -2,3 +2,4 @@ visdom
 attrdict
 PyYAML
 pillow
+torch
