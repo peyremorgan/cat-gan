@@ -3,3 +3,4 @@ attrdict
 PyYAML
 pillow
 torch
+torchvision
