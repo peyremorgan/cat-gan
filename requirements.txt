@@ -4,3 +4,4 @@ PyYAML
 pillow
 torch
 torchvision
+visdom
